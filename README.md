@@ -81,7 +81,7 @@ You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] d
 
 - lol Version: [lol-theme-online-resume][Other Version]
 
-[Demo]: https://souvik-pramanik.github.io/online-resume
+[Demo]: https://souvik-pramanik.github.io/Online-Resume
 [Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/
 [Vercel]: https://vercel.com/guides/deploying-jekyll-with-vercel
 [Other Version]: https://github.com/souvik-pramanik/lol-theme-online-resume
