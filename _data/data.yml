@@ -215,33 +215,33 @@ skill:
 
   items:
     - name: Pediatric care
-      level: 0
+      level: 4
     - name: Psychiatric care
-      level: 0
+      level: 4
     - name: Surgical care
-      level: 0
+      level: 5
     - name: Maternal care
-      level: 0
+      level: 5
     - name: Emergency care
-      level: 0
+      level: 4
     - name: Emotional intelligence
-      level: 0
+      level: 5
     - name: Understanding
-      level: 0
+      level: 5
     - name: Responsibility
-      level: 0
+      level: 5
     - name: Maintaining electronic health records
-      level: 0
+      level: 4
     - name: Documenting patient history
-      level: 0
+      level: 5
     - name: Positive attitude
-      level: 0
+      level: 5
     - name: Discipline
-      level: 0
+      level: 5
     - name: Collaboration & Collaboration
-      level: 0
+      level: 4
     - name: assessment and treatment
-      level: 0
+      level: 5
 
   groups:
     - name: Urgent care and emergency care
