@@ -346,12 +346,14 @@ certificate:
 licence:
   show: true
   order: 7
-  title: Nursing Registration Certificate
-  Date: 2024.07 - 2029.07
-  issuer: West Bengal Nursing Council
-  reg-no: 90965-NM
-  description: |
-    Certificate of Registration provided by West Bengal Nursing Council
+  title: Licence
+    items:
+      - name: Nursing Registration Certificate
+        issuer: West Bengal Nursing Council
+        Date: 2024.07 - 2029.07
+        reg-no: 90965-NM
+        description: |
+        Certificate of Registration provided by West Bengal Nursing Council
 # publication:
 #   show: true
 #   order: 7
