@@ -68,7 +68,7 @@ contact:
   # social media
   twitter: # username          | https://twitter.com/username
   mastodon: # username@server
-  instagram: # username          | https://instagram.com/username
+  instagram: @__myself__sukanya_._          | https://www.instagram.com/__myself__sukanya_._/
   unsplash: # username          | https://unsplash.com/@username
   _500px: # username          | https://500px.com/p/username
   youtube: # username          | https://www.youtube.com/@username
@@ -87,15 +87,28 @@ profile:
 
     Eager to apply my theoretical knowledge and hands-on clinical experience to provide high-quality healthcare and support to patients in a dynamic healthcare environment.
 
-experience:
+job-experience:
   show: true
   order: 2
-  title: Experiences
+  title: Job Experience
+
+  items:
+    - company: IRIS Multispeciality Hospital
+      link: https://www.irishospital.co.in/
+      tags: Staff Nurse
+      Date: 2024.11 - 2024.12
+      role: General Ward
+      Location: No. 82, 1, Raja Subodh Chandra Mallick Rd, next to Big Bazaar, Vidyasagar Colony, Ganguly Bagan, Kolkata, West Bengal 700047
+
+experience:
+  show: true
+  order: 3
+  title: Internship Experiences
   # description: |
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: SHRI Aurobindo Seva Kendra(EEDF)
+    - company: Sri Aurobindo Seva Kendra(EEDF)
       link: http://eedf.in/
       tags: Intern Student Nurse
       date: 2023.04 - 2023.10
@@ -117,7 +130,7 @@ experience:
       #   + First
       #   + Second
 
-    - company: Antara (OTC)
+    - company: Antara
       link: https://antaraglobal.org/
       tags: Intern Student Nurse
       date: 2022.05 - 2022.08
@@ -132,18 +145,18 @@ experience:
       link: https://www.medindia.net/directories/hospitals/baruipur-s-d-hospital-south-24-parganas-west-bengal-51096.htm
       tags: Intern Student Nurse
       date: 2022.03 - 2022.04
-      role: Antinatal & Tostnatal
+      role: Antinatal & Postnatal
       location: Baruipur, Kolkata
       # description: |
       #   Your key responsibilities and achievements in the company.
       #   + First
       #   + Second
 
-    - company: SHRI Aurobindo Seva Kendra(EEDF)
+    - company: Sri Aurobindo Seva Kendra(EEDF)
       link: http://eedf.in/
       tags: Intern Student Nurse
       date: 2024.04 - 2022.10
-      role: ICU, Dialisis Care Unit
+      role: ICU, Dialysis Care Unit
       location: Jodhpur Park, Kolkata
       # description: |
       #   Your key responsibilities and achievements in the company.
@@ -161,7 +174,7 @@ experience:
       #   + First
       #   + Second
 
-    - company: SHRI Aurobindo Seva Kendra(EEDF)
+    - company: Sri Aurobindo Seva Kendra(EEDF)
       link: http://eedf.in/
       tags: Intern Student Nurse
       date: 2021.02 - 2021.11
@@ -220,7 +233,7 @@ skill:
       level: 4
     - name: Surgical care
       level: 5
-    - name: Maternal care
+    - name: Maternity Care 
       level: 5
     - name: Emergency care
       level: 4
@@ -238,7 +251,7 @@ skill:
       level: 5
     - name: Discipline
       level: 5
-    - name: Collaboration & Collaboration
+    - name: Collaboration
       level: 4
     - name: assessment and treatment
       level: 5
@@ -249,7 +262,7 @@ skill:
         - Pediatric care
         - Psychiatric care
         - Surgical care
-        - Maternal care
+        - Maternity Care 
         - Emergency care
     - name: Empathy
       item:
@@ -265,7 +278,7 @@ skill:
       item:
         - Positive attitude
         - Discipline
-        - Collaboration & Collaboration
+        - Collaboration
 
 education:
   show: true
@@ -325,12 +338,20 @@ certificate:
       description: |
         Participate in NBEMS CPR Awareness Program on 7th Dec 2023.
     - name: Be Employable
-      issuer: by Shri Aurobindo Seva Kend
+      issuer: by Sri Aurobindo Seva Kend
       date: 2023.August
       link: "#"
       description: |
-        Participated in “Be Employable” two days activity workshop by Shri Aurobindo Seva Kendra on 19th Aug 2023.
-
+        Participated in “Be Employable” two days activity workshop by Sri Aurobindo Seva Kendra on 19th Aug 2023.
+licence:
+  show: true
+  order: 7
+  title: Nursing Registration Certificate
+  Date: 2024.07 - 2029.07
+  issuer: West Bengal Nursing Council
+  reg-no: 90965-NM
+  description: |
+    Certificate of Registration provided by West Bengal Nursing Council
 # publication:
 #   show: true
 #   order: 7
