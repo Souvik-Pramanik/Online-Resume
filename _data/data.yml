@@ -87,22 +87,22 @@ profile:
 
     Eager to apply my theoretical knowledge and hands-on clinical experience to provide high-quality healthcare and support to patients in a dynamic healthcare environment.
 
-job-experience:
-  show: true
-  order: 2
-  title: Job Experience
+# job-experience:
+#   show: true
+#   order: 2
+#   title: Job Experience
 
-  items:
-    - company: IRIS Multispeciality Hospital
-      link: https://www.irishospital.co.in/
-      tags: Staff Nurse
-      Date: 2024.11 - 2024.12
-      role: General Ward
-      Location: No. 82, 1, Raja Subodh Chandra Mallick Rd, next to Big Bazaar, Vidyasagar Colony, Ganguly Bagan, Kolkata, West Bengal 700047
+#   items:
+#     - company: IRIS Multispeciality Hospital
+#       link: https://www.irishospital.co.in/
+#       tags: Staff Nurse
+#       Date: 2024.11 - 2024.12
+#       role: General Ward
+#       Location: No. 82, 1, Raja Subodh Chandra Mallick Rd, next to Big Bazaar, Vidyasagar Colony, Ganguly Bagan, Kolkata, West Bengal 700047
 
 experience:
   show: true
-  order: 3
+  order: 2
   title: Internship Experiences
   # description: |
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
@@ -343,17 +343,17 @@ certificate:
       link: "#"
       description: |
         Participated in “Be Employable” two days activity workshop by Sri Aurobindo Seva Kendra on 19th Aug 2023.
-licence:
-  show: true
-  order: 7
-  title: Licence
-    items:
-      - name: Nursing Registration Certificate
-        issuer: West Bengal Nursing Council
-        Date: 2024.07 - 2029.07
-        reg-no: 90965-NM
-        description: |
-        Certificate of Registration provided by West Bengal Nursing Council
+# licence:
+#   show: true
+#   order: 7
+#   title: Licence
+#     items:
+#       - name: Nursing Registration Certificate
+#         issuer: West Bengal Nursing Council
+#         Date: 2024.07 - 2029.07
+#         reg-no: 90965-NM
+#         description: |
+#         Certificate of Registration provided by West Bengal Nursing Council
 # publication:
 #   show: true
 #   order: 7
